@@ -2,5 +2,6 @@
 
 Olá, Bem-Vindo ao Livro de Receitas :books:
 
--  Strogonoff de frango :chicken:
+- Pavê
 
+-  Strogonoff de frango :chicken:
